@@ -1,5 +1,6 @@
 # **Captive Auto Finance Analytics Engineering Optimization Platform**
-### **Target Role Allocation: Data Analytics Engineer / Analytics Engineer (DIAA Division)**
+---
+###   * **Target Role Allocation: Data Analytics Engineer / Analytics Engineer (DIAA Division)**
 ### **Enterprise Focus: Data Management Modernization, EUC Remediation, Risk Reporting Controls**
 ### **Target Organization Context: Mercedes-Benz Financial Services USA LLC (Fort Worth, TX Headquarters Expansion)
 ### **Personal Project Sandbox Environment ID: driiiportfolio**
