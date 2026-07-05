@@ -24,13 +24,11 @@ Displays high-level portfolio metrics: Total Capital Active, Average Monthly Pay
 
 **Calculation Formula:**
 
-$$
-\text{Total Capital Active} = \sum(\text{amount\_financed})
-$$
+```text
+Total Capital Active = SUM(amount_financed)
 
-$$
-\text{Portfolio Credit Rating} = \text{AVG}(\text{credit\_score})
-$$
+Portfolio Credit Rating = AVG(credit_score)
+```
 
 **Business Interpretation:**  
 Allows leadership to monitor total credit exposure and portfolio health at a glance.
@@ -42,11 +40,12 @@ Maps portfolio distribution and delinquency rates across regional dealer network
 
 **Calculation Formula:**
 
-$$
-\text{Delinquency Concentration} =
-\frac{\text{COUNT}(\text{Contracts where days\_past\_due} > 30)}
-{\text{Total Active Contracts}}
-$$
+```text
+Delinquency Concentration =
+COUNT(Contracts where days_past_due > 30)
+/
+Total Active Contracts
+```
 
 **Business Interpretation:**  
 Helps risk teams identify and adjust underwriting criteria in underperforming regions.
@@ -60,10 +59,10 @@ Tracks data cleaning metrics, including duplicate records caught and missing val
 
 **Calculation Formula:**
 
-$$
-\text{Duplicate Remediation} =
-\text{Count\_Raw} - \text{Count\_Cleaned}
-$$
+```text
+Duplicate Remediation =
+Count_Raw - Count_Cleaned
+```
 
 **Business Interpretation:**  
 Validates data pipeline stability for compliance and audit reviews.
