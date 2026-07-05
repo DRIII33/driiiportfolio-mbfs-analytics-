@@ -1,17 +1,17 @@
 # **Captive Auto Finance Analytics Engineering Optimization Platform**
 ---
-* **Target Role Allocation: Data Analytics Engineer / Analytics Engineer (DIAA Division)**
-* **Enterprise Focus: Data Management Modernization, EUC Remediation, Risk Reporting Controls**
-* **Target Organization Context: Mercedes-Benz Financial Services USA LLC (Fort Worth, TX Headquarters Expansion)**
-* **Personal Project Sandbox Environment ID: driiiportfolio**
-
+* **Target Role Allocation:** Data Analytics Engineer / Analytics Engineer (DIAA Division)
+* **Enterprise Focus:** Data Management Modernization, EUC Remediation, Risk Reporting Controls
+* **Target Organization Context:** Mercedes-Benz Financial Services USA LLC (Fort Worth, TX Headquarters Expansion)
+* **Personal Project Sandbox Environment ID:** driiiportfolio
 ---
-
+---
 ### **Platform Overview**
 
-This portfolio optimization project implements an end-to-end data analytics engineering framework designed to address critical backend reporting challenges common to captive automobile finance environments. The system replaces manual, high-risk End-User Computing (EUC) assets with a governed, scalable cloud database architecture.
+##### This portfolio optimization project implements an end-to-end data analytics engineering framework designed to address critical backend reporting challenges common to captive automobile finance environments. The system replaces manual, high-risk End-User Computing (EUC) assets with a governed, scalable cloud database architecture.
 
-Using Python, optimized BigQuery SQL, and interactive Looker Studio dashboard configurations, this system remediates structural data quality anomalies, establishes a performant dimensional star schema, and delivers audit-ready Key Performance Indicators (KPIs) to executive stakeholders.
+##### Using Python, optimized BigQuery SQL, and interactive Looker Studio dashboard configurations, this system remediates structural data quality anomalies, establishes a performant dimensional star schema, and delivers audit-ready Key Performance Indicators (KPIs) to executive stakeholders.
+
 ---
 ### **Technical Toolstack Specifications**
 
