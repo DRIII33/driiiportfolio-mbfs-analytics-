@@ -1,8 +1,10 @@
 # Executive Summary Report: Portfolio Governance Transformation
 ---
+##### **Project Title: Automated Portfolio Analytics Infrastructure Modernization
+##### **Assigned Division: Data Insights and Advanced Analytics (DIAA Team Space)
+##### **Engineering Lead: Data Analytics Engineer Candidate
 ##### **Data Analytics Engineer:** Daniel Rodriguez III
 ##### **Date:** 04 July 2026
-
 ---
 ## 1. Business Problem
 
